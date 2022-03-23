@@ -1,0 +1,29 @@
+#mrconhome{
+    /* margin-top: 200px; */
+    align-items: center;
+    justify-content: center;
+    max-width: 1366px;
+    margin: 40px auto 0;
+    width: 95%;
+    height: 300px;
+    background-color: rgba(105, 105, 105, 0.8);
+    border-radius: 15px;
+    display: flex;
+    /* border: 1px solid red; */
+}
+#mrconhome>div>h1{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Style Script', "cursive";
+    color: rgba(255, 255, 255, 0.7);
+    letter-spacing: 3px;
+    margin-bottom: 30px;
+}
+#mrconhome>div>p{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Style Script', "cursive";
+    color: rgba(0, 0, 0, 0.7);
+    letter-spacing: 3px;
+    margin-bottom: 30px;
+}

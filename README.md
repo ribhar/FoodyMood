@@ -3,7 +3,7 @@ Foody Mood is a digital recipe book where one gets to search for recipes for the
 
 ### Live deployed URL: https://foodymood.netlify.app/index.html
 
-<!-- ### Blog Post: https://www.linkedin.com/in/ribhar/details/projects/ -->
+### Blog Post: https://medium.com/@ribhar/project-foody-mood-70063288833c
 
 
  <h2>Landing Page</h2>
